@@ -1,3 +1,3 @@
 ![banner-long](https://user-images.githubusercontent.com/63901494/149275218-5bf4e34c-b984-48f1-bd71-69ded6980df7.jpg)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ToBigsSound-1516)](https://github.com/ToBigsSound-1516)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ToBigsSound-1516/Smootify)](https://github.com/ToBigsSound-1516/Smootify)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FToBigsSound-1516&count_bg=%231ED760&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits%21&edge_flat=true)](https://hits.seeyoufarm.com)
